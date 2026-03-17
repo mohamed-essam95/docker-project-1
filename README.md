@@ -73,3 +73,6 @@ To remove the persistent Postgres volume as well:
 ```bash
 docker compose down -v
 ```
+
+## ScreenShot 
+![Screenshot](/Screenshot.png)
